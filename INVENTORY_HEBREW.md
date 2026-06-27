@@ -1,7 +1,7 @@
 # דוח יצירת Build
 
 שם Build: Lior Build
-גרסה: 1.0.3
+גרסה: 1.0.4
 כתובת בסיס: https://lioryo.github.io/KodiBuild/
 
 קבצים שהועתקו: 3488
@@ -9,9 +9,9 @@
 קבצי הגדרות שנוקו ממידע אישי: 11
 
 נוצרו:
-- builds\LiorBuild-1.0.3.zip
-- repo/repository.lior-1.0.3.zip
-- repo/plugin.program.liorwizard-1.0.3.zip
+- builds\LiorBuild-1.0.4.zip
+- repo/repository.lior-1.0.4.zip
+- repo/plugin.program.liorwizard-1.0.4.zip
 - repository.lior.zip
 - addons.xml
 - addons.xml.md5
