@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.program.liorwizard" name="Lior Wizard" version="1.0.0" provider-name="Lior">
+  <requires>
+    <import addon="xbmc.python" version="3.0.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>executable</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="he_IL">אשף התקנת Lior Build</summary>
+    <description lang="he_IL">מוריד ומתקין Build מקובץ ZIP.</description>
+    <platform>all</platform>
+  </extension>
+</addon>

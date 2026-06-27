@@ -1,0 +1,10 @@
+{
+  "name": "Lior Build",
+  "version": "1.0",
+  "kodi": "21.x",
+  "url": "https://lioryo.github.io/KodiBuild/builds/LiorBuild-1.0.zip",
+  "sha256": "8739c76e681f900923b900c9df0ef75cf421d39cabb54650c4b9ad19b6a76d85",
+  "size_bytes": 22,
+  "created": "2026-06-27T19:21:16",
+  "notes": "Friends build. Personal accounts/tokens sanitized where detected."
+}
