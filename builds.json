@@ -4,11 +4,11 @@
     {
       "id": "liorbuild",
       "name": "Lior Build",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "kodi": "21.x",
       "platform": "all",
-      "url": "https://lioryo.github.io/KodiBuild/builds/LiorBuild-1.0.1.zip",
-      "md5": "69d9b30142bef495791f14d1d21d56ab",
+      "url": "https://lioryo.github.io/KodiBuild/builds/LiorBuild-1.0.2.zip",
+      "md5": "44f8e496c75a1d2761f42cd2a6462953",
       "notes": "גרסת חברים ללא פרטי Real-Debrid אישיים"
     }
   ]
