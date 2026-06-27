@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addons>
+<addon id="repository.lior" name="Lior Kodi Repository" version="1.0.0" provider-name="Lior">
+  <requires>
+    <import addon="xbmc.addon" version="12.0.0"/>
+  </requires>
+  <extension point="xbmc.addon.repository" name="Lior Kodi Repository">
+    <info compressed="false">https://lioryo.github.io/KodiBuild/addons.xml</info>
+    <checksum>https://lioryo.github.io/KodiBuild/addons.xml.md5</checksum>
+    <datadir zip="true">https://lioryo.github.io/KodiBuild/repo/</datadir>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="he_IL">מאגר Kodi פרטי של ליאור</summary>
+    <description lang="he_IL">מאגר להתקנת Lior Build Wizard.</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+<addon id="plugin.program.liorbuildwizard" name="Lior Build Wizard" version="1.0.0" provider-name="Lior">
+  <requires>
+    <import addon="xbmc.python" version="3.0.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>executable</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="he_IL">אשף התקנת Lior Build</summary>
+    <description lang="he_IL">מוריד ומתקין את ה-Build האישי שלך על התקנת Kodi חדשה.</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+</addons>
